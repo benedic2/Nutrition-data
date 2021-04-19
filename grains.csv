@@ -1,0 +1,56 @@
+nutrition	unit	RDV	Pearled barley	Quinoa	Buckwheat	Kamu wheat	Brown rice	Teff	Oats	White rice
+Density 	cups/100g		0.636942675	0.540540541	0.595238095	0.581395349	0.512820513	0.396825397	0.427350427	0.632911392
+Volume energy density	cal/cup									
+Mass energy density	cal/100g		123	120	92	132	122	101	71	129
+Protein	g/100cal		2.26	4.4	3.38	5.71	2.73	3.87	2.54	2.67
+Total lipid (fat)	g/100cal		0.44	1.92	0.62	0.83	0.96	0.65	1.52	0.28
+Carbohydrate, by difference	g/100cal		28.22	21.3	19.94	27.6	25.45	19.86	12	27.99
+Fiber, total dietary	g/100cal		3.8	2.8	2.7	4.3	1.6	2.8	1.7	0.4
+Sugars, total including NLEA	g		0.28	0.87	0.9	3.07	0.24		0.27	0.05
+Calcium, Ca	%RDV/100cal	1,000	11	17	7	9	3	49	9	10
+22:6 n-3 (DHA)	g		0	0.015	0		0		0	0
+Alanine	g		0.088	0.183	0.191	0.211		0.218		
+Arginine	g		0.113	0.34	0.25	0.27		0.151		
+Aspartic acid	g		0.141	0.353	0.289	0.312		0.239		
+Carotene, beta	µg		5	3	0		0		0	0
+Choline, total	%RDV/100cal	550	13.4	23	20.1		9.2		7.4	2.1
+Copper, Cu	%RDV/100cal	0.9	0.105	0.192	0.146	0.207	0.105	0.226	0.074	0.069
+Cystine	%RDV/100cal		0.05	0.063	0.058	0.12		0.069		
+Fatty acids, total monounsaturated	%RDV/100cal		0.057	0.528	0.188	0.084	0.367		0.435	0.087
+Fatty acids, total polyunsaturated	%RDV/100cal		0.214	1.078	0.188	0.243	0.364		0.559	0.076
+Fatty acids, total saturated	%RDV/100cal		0.093	0.231	0.134	0.077	0.259		0.31	0.077
+Folate, DFE	%RDV/100cal	400	16	42	14	11	9	18	6	96
+Folate, food	%RDV/100cal		16	42	14	11	9	18	6	3
+Folate, total	%RDV/100cal		16	42	14	11	9	18	6	58
+Glutamic acid	%RDV/100cal		0.591	0.58	0.522	1.88		0.975		
+Glycine	%RDV/100cal		0.082	0.216	0.263	0.225		0.139		
+Histidine	%RDV/100cal		0.051	0.127	0.079	0.147		0.088		
+Iron, Fe	%RDV/100cal	8	1.33	1.49	0.8	1.76	0.56	2.05	0.9	1.19
+Isoleucine	%RDV/100cal		0.083	0.157	0.127	0.22		0.146		
+Leucine	%RDV/100cal		0.154	0.261	0.212	0.432		0.311		
+Lutein + zeaxanthin	%RDV/100cal		56	53	60		0		180	0
+Lysine	%RDV/100cal		0.084	0.239	0.172	0.161		0.109		
+Magnesium, Mg	%RDV/100cal	400	22	64	51	48	39	50	27	12
+Manganese, Mn	%RDV/100cal	2.3	0.259	0.631	0.403	1.03		2.86	0.58	
+Methionine	%RDV/100cal		0.043	0.096	0.044	0.097		0.125		
+Niacin	%RDV/100cal	16	2.063	0.412	0.94	2.305	2.548	0.909	0.225	1.467
+Pantothenic acid	%RDV/100cal	5	0.135		0.359				0.311	
+Phenylalanine	%RDV/100cal		0.127	0.185	0.133	0.3		0.203		
+Phosphorus, P	%RDV/100cal	700	54	152	70	147	102	120	77	43
+Potassium, K	%RDV/100cal	3400	93	172	88	164	86	107	70	35
+Proline	%RDV/100cal		0.269	0.24	0.129	0.619		0.193		
+Riboflavin	%RDV/100cal	1.3	0.062	0.11	0.039	0.03	0.069	0.033	0.016	0.013
+Selenium, Se	%RDV/100cal	55	8.6	2.8	2.2	31.9	5.8		5.4	7.5
+Serine	%RDV/100cal		0.095	0.176	0.175	0.295		0.181		
+Sodium, Na	%RDV/100cal	1500	3	7	4	8	202	8	71	245
+Thiamin	%RDV/100cal	1.2	0.083	0.107	0.04	0.095	0.177	0.183	0.076	0.162
+Threonine	%RDV/100cal		0.077	0.131	0.129	0.172		0.149		
+Tocopherol, beta	%RDV/100cal			0.03					0.01	
+Tryptophan	%RDV/100cal		0.038	0.052	0.049	0.051		0.041		
+Tyrosine	%RDV/100cal		0.065	0.083	0.062	0.137		0.133		
+Valine	%RDV/100cal		0.111	0.185	0.173	0.267		0.2		
+Vitamin A, IU	%RDV/100cal	3000	7	5	0	4		2	0	
+Vitamin B-6	%RDV/100cal	1.3	0.115	0.123	0.077	0.07	0.122	0.097	0.005	0.092
+Vitamin E (alpha-tocopherol)	%RDV/100cal	15	0.01	0.63	0.09	0.24	0.17		0.08	0.04
+Vitamin K (phylloquinone)	%RDV/100cal	120	0.8	0	1.9		0.2		0.3	0
+Zinc, Zn	%RDV/100cal	11	0.82	1.09	0.61	1.84	0.71	1.11	1	0.49
